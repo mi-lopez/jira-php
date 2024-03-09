@@ -1,5 +1,5 @@
 {
-    "name": "devmoath/jira-php",
+    "name": "mi-lopez/jira-php",
     "description": "Jira PHP is a supercharged PHP API client that allows you to interact with the Jira API and the Service Desk API",
     "keywords": [
         "php",
@@ -14,6 +14,10 @@
         {
             "name": "Moath Alhajri",
             "email": "moath.alhajrii@gmail.com"
+        },
+        {
+            "name": "Miguel Lopez",
+            "email": "miguel.lopezt86@gmail.com"
         }
     ],
     "require": {
